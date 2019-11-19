@@ -31,4 +31,6 @@ class Shoe
   def material
     @material
   end 
+  
+  
 end 
